@@ -1,2 +1,0 @@
-# FitZee
-Fitness Studio Website
